@@ -43,6 +43,29 @@ I teach the commands in this order:
 - `reference/` contains command notes for quick review after the workshop.
 - `examples/workshop-state/` contains small files from the original workshop practice.
 
+## Material Index
+
+Lessons:
+
+- [01. Command Line Basics](lessons/01-command-line-basics.md)
+- [02. First Git Repository](lessons/02-first-git-repository.md)
+- [03. Branches and Merging](lessons/03-branches-and-merging.md)
+- [04. Conflict Resolution](lessons/04-conflict-resolution.md)
+- [05. GitHub Remotes](lessons/05-github-remotes.md)
+- [06. Reading History](lessons/06-reading-history.md)
+
+Practice:
+
+- [Workshop Labs](labs/README.md)
+- [Lab 01. Local Git From Zero](labs/01-local-git-lab.md)
+- [Lab 02. Branch, Merge, and Conflict](labs/02-branch-conflict-lab.md)
+- [Lab 03. GitHub Round Trip](labs/03-github-round-trip-lab.md)
+
+Teaching and review:
+
+- [Facilitator Guide](FACILITATOR.md)
+- [Command Reference](reference/command-reference.md)
+
 ## Suggested Session Flow
 
 1. Start with the command line, because Git is much less scary when the terminal feels normal.
